@@ -1,2 +1,2 @@
-# Read me do melhoria-readme
-este read me foi encaminhado da branch melhoria-readme
+# Este read me é do branch principal
+esse é o README.md do branch main
